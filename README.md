@@ -5,6 +5,6 @@ Technology:
 - Bootstrap 5.* 
 - MySQL/MariaDB
 - DataTables 
-- FontAwesome
+- FontAwesome 
 
 Overview: https://rabka-crudphpmysql.000webhostapp.com/
